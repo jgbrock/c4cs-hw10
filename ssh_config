@@ -1,0 +1,6 @@
+Host
+		Hostname login.engin.umich.edu
+		User jgbrock
+		ControlMaster auto
+		ControlPath _%r@%h:%p
+		ControlPersist 43200
